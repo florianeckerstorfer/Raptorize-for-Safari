@@ -1,0 +1,16 @@
+<html>
+<head>
+</head>
+<body>
+<script>
+function performCommand(event)
+{
+	if (event.command === "raptorize-safari") {
+		console.log('send raptor command');
+		safari.application.activeBrowserWindow.activeTab.page.dispatchMessage("raptorizeNow", 1);
+	}
+}
+safari.application.addEventListener("command", performCommand, false);
+</script>
+</body>
+</html>
