@@ -13,7 +13,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.4</string>
+	<string>1.0.5</string>
 	<key>CFBundleVersion</key>
 	<string>5</string>
 	<key>Chrome</key>
@@ -63,6 +63,6 @@
 	<key>Update Manifest URL</key>
 	<string>http://safariextz.theroadtojoy.at/raptorize/update-manifest.plist</string>
 	<key>Website</key>
-	<string>http://webadventures.at</string>
+	<string>http://webadventures.at/2011/10/22/raptorize-for-safari/</string>
 </dict>
 </plist>
